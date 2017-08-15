@@ -1,0 +1,11 @@
+{
+  "name": "first-name-guesser",
+  "description": "First name guesser",
+  "keywords": [
+    "go",
+  ],
+  "image": "heroku/go:1.6",
+  "mount_dir": "src/github.com/reillywatson/first-name-guesser",
+  "website": "http://github.com/reillywatson/first-name-guesser",
+  "repository": "http://github.com/reillywatson/first-name-guesser"
+}
